@@ -1,0 +1,2 @@
+# simpleweb
+Jadoo landing page
